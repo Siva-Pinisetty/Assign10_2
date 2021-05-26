@@ -49,6 +49,6 @@ else
 	echo "Heads won by $dif times more than Tails"
 	else
 	dif=$(($TAIL-$HEAD))
-	echo "Heads won by $dif times more than Tails"
+	echo "Tails won by $dif times more than Heads"
 	fi
 fi
